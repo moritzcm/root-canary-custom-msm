@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 # This script is provided by the rootcanary.org Project
 # It carries out DNS queries to a number of test domains 
 # and reports a number of results back to the project partners.
