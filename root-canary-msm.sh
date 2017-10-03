@@ -11,11 +11,11 @@
 # dig, curl, grep, cut
 
 # The path where this script and other rleated files are located
-WORKINGDIR='/Users/moritz.muller/Documents/Projecten/Root_KSK_Rollover/custom_msm'
+WORKINGDIR=''
 
 # The IP adress of the local resolver
 
-resolver_ip="94.198.152.132"
+resolver_ip=''
 
 # The unique identifier that helps us to track the measurments over time
 # It is created when you run the setup.sh script
